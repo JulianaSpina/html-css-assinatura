@@ -1,0 +1,25 @@
+body{
+    background-color: rgba(233, 244, 250, 0.555);
+    font-family: 'Segoe UI';
+    font-size: 10pt;
+}
+
+h1{
+   color: rgb(19, 192, 106); 
+   font-family: 'Segoe UI';
+   font-size: 30pt;
+
+}
+
+img{
+    width: 500px;
+    height: 300px;
+
+}
+
+button{
+    width: 150px;
+    height: 30px;
+    color: floralwhite;
+    background-color: forestgreen;
+}
